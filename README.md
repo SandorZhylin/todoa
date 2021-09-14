@@ -9,20 +9,20 @@ TODOa is an app, that helps you to remember all tasks, planned for today and eas
 ### **Installing**
 
 ### To install TODOa app, follow these steps:
-    * Download the todoa_app.apk.
-    * Launch todoa_app.apk to install it to your device.
+1. Download the todoa_app.apk.
+2. Launch todoa_app.apk to install it to your device.
 
 ### **Using Dungeon**
 
 To use TODOa, follow these steps:
-    * Launch the app.
-    * Click "Add item" to add a task you need to do.
-    * Print the name of the task and click "Add".
-    * Your task and its checkbox will appear on the screen.
-    * To get closer look at current task make a single tap on its name.
-    * To mark a task as completed simply click on its checkbox. It will become crossed out.
-    * To delete a task make a long press on its description and press "Yes" button.
-    * If you changed your mind and do not want to delete the task, select "No" or simply tap on free area.
+1. Launch the app.
+2. Click "Add item" to add a task you need to do.
+3. Print the name of the task and click "Add".
+4. Your task and its checkbox will appear on the screen.
+5. To get closer look at current task make a single tap on its name.
+6. To mark a task as completed simply click on its checkbox. It will become crossed out.
+7. To delete a task make a long press on its description and press "Yes" button.
+8. If you changed your mind and do not want to delete the task, select "No" or simply tap on free area.
 
 ### **Contact**
 
