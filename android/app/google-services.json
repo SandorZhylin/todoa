@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "279123959738",
+    "project_id": "todoa-54b6c",
+    "storage_bucket": "todoa-54b6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:279123959738:android:d0abfa91bb8ffe74f58783",
+        "android_client_info": {
+          "package_name": "com.example.todoa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "279123959738-u6pe4gookqip0ob4jtn7nr70nv1dc0ff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_P-Fgt8f2kewWfkalA8B8tXpSEuMYCMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "279123959738-u6pe4gookqip0ob4jtn7nr70nv1dc0ff.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

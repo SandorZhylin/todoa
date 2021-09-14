@@ -1,0 +1,38 @@
+name: todoa
+description: A reminder app.
+
+
+publish_to: none
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  animated_text_kit: ^4.2.0
+  provider: ^5.0.0
+  firebase_core: ^1.0.4
+  cloud_firestore: ^1.0.6
+
+
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter_icons:
+  android: true
+  image_path_android: "assets/app_icon.png"
+
+flutter:
+  assets:
+    - assets/
+
+  uses-material-design: true
+
+
