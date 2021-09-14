@@ -8,7 +8,7 @@ TODOa is an app, that helps you to remember all tasks, planned for today and eas
 
 ### **Installing**
 
-### To install TODOa app, follow these steps:
+To install TODOa app, follow these steps:
 1. Download the todoa_app.apk.
 2. Launch todoa_app.apk to install it to your device.
 
