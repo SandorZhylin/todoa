@@ -12,7 +12,7 @@ TODOa is an app, that helps you to remember all tasks, planned for today and eas
 1. Download the todoa_app.apk.
 2. Launch todoa_app.apk to install it to your device.
 
-### **Using ToDOa**
+### **Using TODOa**
 
 To use TODOa, follow these steps:
 1. Launch the app.
