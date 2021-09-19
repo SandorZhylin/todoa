@@ -3,11 +3,16 @@ import 'package:provider/provider.dart';
 import 'package:todoa/components/rounded_button.dart';
 import 'package:todoa/data/data_collection.dart';
 
-class AddItemsPage extends StatelessWidget {
+class AddItemsPage extends StatefulWidget {
+  @override
+  _AddItemsPageState createState() => _AddItemsPageState();
+}
+
+class _AddItemsPageState extends State<AddItemsPage> {
+  String newToDoTitle = '';
+
   @override
   Widget build(BuildContext context) {
-    String newToDoTitle = '';
-
     return Container(
       padding: EdgeInsets.only(left: 20.0, right: 20.0),
       decoration: BoxDecoration(
