@@ -163,6 +163,8 @@ class HomePageState extends State<HomePage> {
           isScrollControlled: true,
           builder: (BuildContext context) {
             return Container(
+              margin: EdgeInsets.only(
+                  bottom: MediaQuery.of(context).viewInsets.bottom),
               height: 220,
               color: Color(0xff757575),
               child: AddItemsPage(),
